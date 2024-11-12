@@ -8,10 +8,6 @@ Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavr
 - Mobile Responsive
 - Dark Mode Support
 
-
-## Preview
-![Preview](./preview.png)
-
 ## Installation
 - [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
 - Create a ```gh-pages``` branch
